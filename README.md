@@ -1,12 +1,10 @@
 <div align="center"><img width=50% src="https://github.com/JamesHarrys/Toybox/blob/master/img/logo.svg"></div>
 <br/> <br/>
-<p align="center">ToyBox is a new colorful  for people who like Light Themes but can't find something exciting.</p>
+<p align="center">ToyBox is a new colorful for people who like Light Themes but can't find something exciting.</p>
 
 
-![Javascript](https://img.shields.io/badge/javascript-v3.6+-blue.svg)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
+![GitHub](https://img.shields.io/github/license/JamesHarrys/ToyBox)
 
 
 ![Demo](https://github.com/JamesHarrys/Toybox/blob/master/img/screenshot.png)
