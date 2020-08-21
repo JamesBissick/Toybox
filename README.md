@@ -1,6 +1,6 @@
 <div align="center"><img width=50% src="https://github.com/JamesHarrys/Toybox/blob/master/img/logo.svg"></div>
 <br/> <br/>
-<p align="center">Toy Box Colors is a new colorful  for people who like Light Themes but can't find something exciting.</p>
+<p align="center">ToyBox is a new colorful  for people who like Light Themes but can't find something exciting.</p>
 
 
 ![Javascript](https://img.shields.io/badge/javascript-v3.6+-blue.svg)
