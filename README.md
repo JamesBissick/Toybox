@@ -2,6 +2,11 @@
 <br/> <br/>
 <p align="center">ToyBox is a new colorful for people who like Light Themes but can't find something exciting.</p>
 
+<p align="center">
+  <img alt="Contributions welcome" src="https://img.shields.io/badge/contributions-welcome-orange.svg">
+  <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/JamesHarrys/Toybox">
+  <img alt="GitHub" src="https://img.shields.io/github/license/JamesHarrys/Toybox">
+</p>
 
 
 ![Demo](https://github.com/JamesHarrys/Toybox/blob/master/img/screenshot.png)
@@ -19,5 +24,3 @@
 
 <br/>
 
-![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
-![GitHub](https://img.shields.io/github/license/JamesHarrys/ToyBox)
