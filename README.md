@@ -17,7 +17,7 @@
 
 4 - Enjoy a fresh new look for your IDE!
 
-
+<br/><br/>
 
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 ![GitHub](https://img.shields.io/github/license/JamesHarrys/ToyBox)
