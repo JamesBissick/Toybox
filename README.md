@@ -9,7 +9,7 @@
 
 
 
-![](https://github.com/JamesHarrys/ToyBoxColors/blob/master/img/screenshot.png)
+![Demo](https://github.com/JamesHarrys/Toybox/blob/master/img/screenshot.png)
 
 
 ## Easy Installation
