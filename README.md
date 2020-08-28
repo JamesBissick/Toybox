@@ -25,5 +25,6 @@
 <br/>
 
 ## License
-Copyright (c) 2018 Kyle Robinson Young
+Copyright (c) 2020 James Harrys
+
 Licensed under the MIT license.
