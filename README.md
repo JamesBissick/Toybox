@@ -24,3 +24,6 @@
 
 <br/>
 
+## License
+Copyright (c) 2018 Kyle Robinson Young
+Licensed under the MIT license.
