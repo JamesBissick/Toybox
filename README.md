@@ -1,4 +1,4 @@
-<div align="center"><img width=50% src="https://github.com/JamesHarrys/Toybox/blob/master/img/logo.svg"></div>
+<div align="center"><img width=55% src="https://github.com/JamesHarrys/Toybox/blob/master/img/logo.svg"></div>
 <br/> <br/>
 <p align="center">ToyBox is a colorful scheme for people who like Light Themes but can't find something exciting.</p>
 
