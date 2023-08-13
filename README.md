@@ -25,6 +25,6 @@
 <br/>
 
 ## License
-Copyright (c) 2020 James Harrys
+Copyright (c) 2023 James Bissick
 
 Licensed under the MIT license.
