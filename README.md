@@ -1,6 +1,6 @@
 <div align="center"><img width=55% src="https://github.com/JamesHarrys/Toybox/blob/master/img/logo.svg"></div>
 <br/> <br/>
-<p align="center">ToyBox is a colorful scheme for people who like Light Themes but can't find anything exciting.</p>
+<p align="center">ToyBox is a colorful scheme for people who like Light Themes but can't find anything colorful.</p>
 
 <p align="center">
   <img alt="Contributions welcome" src="https://img.shields.io/badge/contributions-welcome-orange.svg">
@@ -19,8 +19,6 @@
 2 - Click on the cog icon and select 'Import Scheme', 
 
 3 - Select Toybox Colors.jar from disk
-
-4 - Enjoy a fresh new look for your IDE!
 
 <br/>
 
